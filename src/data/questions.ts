@@ -4,45 +4,85 @@ export const quizData: QuizData = {
   "NFL": [
     { 
       text: "Name all 5 of the NFL's all-time leading rushers.", 
-      solutions: ["Emmitt Smith", "Walter Payton", "Barry Sanders", "Jim Brown", "Adrian Peterson"] 
+      solutions: ["Emmitt Smith", "Walter Payton", "Barry Sanders", "Frank Gore", "Adrian Peterson"] 
     },
     { 
-      text: "Name all 3 quarterbacks with the most Super Bowl wins.", 
-      solutions: ["Tom Brady", "Joe Montana", "Terry Bradshaw"] 
+      text: "Name the 4 quarterbacks with the most career passing touchdowns.", 
+      solutions: ["Tom Brady", "Drew Brees", "Peyton Manning", "Brett Favre"] 
     },
     {
-      text: "Name all 3 teams with the most Super Bowl appearances.",
-      solutions: ["New England Patriots", "Dallas Cowboys", "Pittsburgh Steelers"]
+      text: "Name the 3 teams that have never appeared in a Super Bowl.",
+      solutions: ["Cleveland Browns", "Detroit Lions", "Jacksonville Jaguars", "Houston Texans"]
     },
     {
-      text: "Name all 3 players with the fastest 40-yard dash times at the NFL Combine.",
-      solutions: ["John Ross", "Chris Johnson", "Dri Archer"]
+      text: "Name all 5 players who have won NFL MVP unanimously.",
+      solutions: ["Tom Brady", "Lamar Jackson", "Aaron Rodgers", "Patrick Mahomes", "Cooper Kupp"]
     },
     {
-      text: "Name all 3 players with the most career sacks.",
-      solutions: ["Bruce Smith", "Reggie White", "Kevin Greene"]
+      text: "Name the 3 players with the most career receiving touchdowns.",
+      solutions: ["Jerry Rice", "Randy Moss", "Terrell Owens"]
+    },
+    {
+      text: "Name all 4 players who have rushed for 2,000+ yards in a single season.",
+      solutions: ["Eric Dickerson", "Adrian Peterson", "Jamal Lewis", "Derrick Henry"]
+    },
+    {
+      text: "Name the 3 teams with the longest active playoff appearance streaks.",
+      solutions: ["Kansas City Chiefs", "Buffalo Bills", "San Francisco 49ers"]
+    },
+    {
+      text: "Name all 5 players who have won Super Bowl MVP multiple times.",
+      solutions: ["Tom Brady", "Bart Starr", "Terry Bradshaw", "Joe Montana", "Eli Manning"]
+    },
+    {
+      text: "Name the 3 players with the most career interceptions.",
+      solutions: ["Paul Krause", "Emlen Tunnell", "Rod Woodson"]
+    },
+    {
+      text: "Name all 4 teams that have won back-to-back Super Bowls.",
+      solutions: ["Green Bay Packers", "Pittsburgh Steelers", "San Francisco 49ers", "Denver Broncos"]
     }
   ],
   "College Football": [
     {
-      text: "Name the 3 schools with the most NCAA Division I FBS National Championships.",
-      solutions: ["Alabama", "Notre Dame", "Oklahoma"]
+      text: "Name the 5 schools with the most NCAA Division I FBS National Championships since 1936.",
+      solutions: ["Alabama", "Notre Dame", "Oklahoma", "USC", "Ohio State"]
     },
     {
-      text: "Name the 3 players who have won multiple Heisman Trophy awards.",
-      solutions: ["Archie Griffin", "Ohio State", "No One Else"]
+      text: "Name the only player to win multiple Heisman Trophy awards.",
+      solutions: ["Archie Griffin"]
     },
     {
-      text: "Name the 3 schools with the most Heisman Trophy winners.",
-      solutions: ["Notre Dame", "Ohio State", "Oklahoma"]
+      text: "Name the 4 schools with the most Heisman Trophy winners.",
+      solutions: ["Notre Dame", "Ohio State", "USC", "Oklahoma"]
     },
     {
-      text: "Name the 3 longest active college football rivalries.",
-      solutions: ["Minnesota-Wisconsin", "Miami (OH)-Cincinnati", "North Carolina-Virginia"]
+      text: "Name the 3 oldest college football rivalries still played annually.",
+      solutions: ["Yale-Princeton", "Lafayette-Lehigh", "Harvard-Yale"]
     },
     {
-      text: "Name the 3 schools with the most all-time wins in college football.",
-      solutions: ["Michigan", "Ohio State", "Alabama"]
+      text: "Name the 5 schools with the most all-time wins in college football.",
+      solutions: ["Michigan", "Ohio State", "Alabama", "Texas", "Notre Dame"]
+    },
+    {
+      text: "Name the 3 coaches with the most all-time wins in college football.",
+      solutions: ["John Gagliardi", "Joe Paterno", "Eddie Robinson"]
+    },
+    {
+      text: "Name all 4 teams that have made the College Football Playoff at least 4 times.",
+      solutions: ["Alabama", "Clemson", "Ohio State", "Georgia"]
+    },
+    {
+      text: "Name the 3 schools that have produced the most NFL first-round draft picks.",
+      solutions: ["Alabama", "USC", "Ohio State"]
+    },
+    {
+      text: "Name all 3 schools that have won both a football national championship and basketball national championship.",
+      solutions: ["Michigan", "Ohio State", "Florida"]
+    },
+    {
+      text: "Name the 4 schools with the largest football stadium capacities.",
+      solutions: ["Michigan", "Penn State", "Ohio State", "Texas A&M"]
     }
   ],
   "NBA": [

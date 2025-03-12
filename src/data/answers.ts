@@ -28,5 +28,21 @@ export const potentialAnswers: PotentialAnswers = {
   "Golf": [
     // All Golf potential answers in one array
     ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer", "Phil Mickelson", "Gary Player", "Ben Hogan", "Sam Snead", "Nick Faldo", "Tom Watson", "Seve Ballesteros", "Walter Hagen", "Gene Sarazen", "Bobby Jones", "Billy Casper", "Byron Nelson", "Vijay Singh", "Davis Love III", "Rory McIlroy", "Jordan Spieth", "Brooks Koepka", "Dustin Johnson", "PGA Tour", "European Tour", "LIV Golf", "Champions Tour", "Asian Tour", "Korn Ferry Tour", "Japan Golf Tour", "PGA Tour Champions", "Challenge Tour", "Web.com Tour", "PGA Tour Canada"]
+  ],
+  "Random": [
+    // Most-watched sporting events
+    ["FIFA World Cup", "Olympics", "UEFA Champions League Final"],
+    // Highest-paid athletes
+    ["Lionel Messi", "Cristiano Ronaldo", "Michael Jordan"],
+    // Oldest professional sports leagues
+    ["MLB", "NHL", "NFL"],
+    // Most valuable sports franchises
+    ["Dallas Cowboys", "Real Madrid", "New England Patriots"],
+    // Most attended sporting events
+    ["Indianapolis 500", "Le Mans 24 Hours", "Daytona 500"],
+    // Bo Jackson sports
+    ["Baseball", "Football", "Track and Field"],
+    // Deion Sanders sports
+    ["Baseball", "Football", "Track and Field"]
   ]
 };

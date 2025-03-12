@@ -35,7 +35,7 @@ export const potentialAnswers: PotentialAnswers = {
     // Historic Rivalries
     ["Yale-Princeton", "Lafayette-Lehigh", "Harvard-Yale", "Army-Navy", "Michigan-Ohio State", "Alabama-Auburn", "USC-Notre Dame", "Oklahoma-Texas", "Florida-Georgia", "Clemson-South Carolina", "Cal-Stanford", "Oregon-Oregon State", "Washington-Washington State", "Minnesota-Wisconsin", "Indiana-Purdue", "Illinois-Northwestern", "Kansas-Missouri", "Texas-Texas A&M", "UCLA-USC", "Miami-Florida State"],
     // Schools by Wins
-    ["Michigan", "Ohio State", "Alabama", "Texas", "Notre Dame", "Oklahoma", "Nebraska", "Penn State", "USC", "Tennessee", "Georgia", "LSU", "Auburn", "Florida", "Clemson", "Texas A&M", "Wisconsin", "Miami", "Florida State", "Virginia Tech", "West Virginia", "Pittsburgh", "Arkansas", "Syracuse", "Washington"],
+    ["Michigan", "Ohio State", "Alabama", "Texas", "Notre Dame", "Oklahoma", "Nebraska", "Penn State", "USC", "Tennessee", "Georgia", "LSU", "Auburn", "Florida", "Clemson", "Texas A&M", "Wisconsin", "Miami", "Florida State", "Virginia Tech", "West Virginia", "Pittsburgh", "Arkansas", "Syracuse", "Washington", "Toledo", "Bowling Green", "Utah"],
     // Famous Coaches
     ["John Gagliardi", "Joe Paterno", "Eddie Robinson", "Bobby Bowden", "Bear Bryant", "Pop Warner", "Amos Alonzo Stagg", "Nick Saban", "Urban Meyer", "Woody Hayes", "Bo Schembechler", "Tom Osborne", "Barry Switzer", "Knute Rockne", "Bud Wilkinson", "Frank Leahy", "Ara Parseghian", "Lou Holtz", "Dabo Swinney", "Kirby Smart", "Pete Carroll", "Steve Spurrier", "Jimmy Johnson", "Howard Schnellenberger", "Bobby Petrino"],
     // Playoff Teams
@@ -49,7 +49,7 @@ export const potentialAnswers: PotentialAnswers = {
   ],
   "NBA": [
     // All-Time Scoring Leaders
-    ["LeBron James", "Kareem Abdul-Jabbar", "Karl Malone", "Kobe Bryant", "Michael Jordan", "Dirk Nowitzki", "Wilt Chamberlain", "Shaquille O'Neal", "Carmelo Anthony", "Moses Malone", "Kevin Durant", "Oscar Robertson", "Hakeem Olajuwon", "Dominique Wilkins", "Tim Duncan", "Paul Pierce", "John Havlicek", "Kevin Garnett", "Vince Carter", "Jerry West"],
+    ["LeBron James", "Kareem Abdul-Jabbar", "Karl Malone", "Kobe Bryant", "Michael Jordan", "Dirk Nowitzki", "Wilt Chamberlain", "Shaquille O'Neal", "Carmelo Anthony", "Moses Malone", "Kevin Durant", "Oscar Robertson", "Hakeem Olajuwon", "Dominique Wilkins", "Tim Duncan", "Paul Pierce", "John Havlicek", "Kevin Garnett", "Vince Carter", "Jerry West", "David Thompson"],
     // MVP Winners
     ["Michael Jordan", "Kareem Abdul-Jabbar", "Bill Russell", "Wilt Chamberlain", "LeBron James", "Magic Johnson", "Larry Bird", "Moses Malone", "Karl Malone", "Tim Duncan", "Steve Nash", "Giannis Antetokounmpo", "Stephen Curry", "Kevin Durant", "James Harden", "Russell Westbrook", "Derrick Rose", "Nikola Jokic", "Joel Embiid", "Allen Iverson"],
     // Championship Teams
@@ -73,7 +73,7 @@ export const potentialAnswers: PotentialAnswers = {
   ],
   "College Basketball": [
     // Championship Programs
-    ["UCLA", "Kentucky", "North Carolina", "Duke", "Indiana", "Kansas", "Connecticut", "Villanova", "Michigan State", "Louisville", "Arizona", "Florida", "Michigan", "Cincinnati", "North Carolina State", "Oklahoma State", "CCNY", "Holy Cross", "San Francisco", "La Salle"],
+    ["UCLA", "Kentucky", "North Carolina", "Duke", "Indiana", "Kansas", "Connecticut", "Villanova", "Michigan State", "Louisville", "Arizona", "Florida", "Michigan", "Cincinnati", "North Carolina State", "Oklahoma State", "CCNY", "Holy Cross", "San Francisco", "La Salle", "Providence", "St. John's", "UMass", "Memphis"],
     // All-Time Coaches
     ["Mike Krzyzewski", "Jim Boeheim", "Bob Knight", "Dean Smith", "Adolph Rupp", "Roy Williams", "Jim Calhoun", "John Wooden", "Bob Huggins", "Eddie Sutton", "Lute Olson", "John Thompson", "Rick Pitino", "Tom Izzo", "Bill Self", "Jay Wright", "John Calipari", "Jim Valvano", "Denny Crum", "Pete Carril"],
     // Player of the Year Winners
@@ -129,7 +129,7 @@ export const potentialAnswers: PotentialAnswers = {
     // Current Stars
     ["Erling Haaland", "Kylian Mbappe", "Jude Bellingham", "Mohamed Salah", "Kevin De Bruyne", "Harry Kane", "Vinicius Jr", "Bukayo Saka", "Phil Foden", "Victor Osimhen", "Rodri", "Bruno Fernandes", "Marcus Rashford", "Trent Alexander-Arnold", "Martin Odegaard", "Declan Rice", "Son Heung-min", "Bernardo Silva", "Lautaro Martinez", "Federico Valverde"],
     // Historic Players
-    ["Pele", "Diego Maradona", "Johan Cruyff", "Franz Beckenbauer", "Eusebio", "Alfredo Di Stefano", "George Best", "Bobby Charlton", "Ferenc Puskas", "Gerd Muller", "Michel Platini", "Marco van Basten", "Paolo Maldini", "Roberto Baggio", "Zinedine Zidane", "Ronaldo", "Ronaldinho", "Thierry Henry", "Paolo Rossi", "Kenny Dalglish"],
+    ["Pele", "Diego Maradona", "Johan Cruyff", "Franz Beckenbauer", "Eusebio", "Alfredo Di Stefano", "George Best", "Bobby Charlton", "Ferenc Puskas", "Gerd Muller", "Michel Platini", "Marco van Basten", "Paolo Maldini", "Roberto Baggio", "Zinedine Zidane", "Ronaldo", "Ronaldinho", "Thierry Henry", "Paolo Rossi", "Kenny Dalglish", "Ali Daei"],
     // National Teams
     ["Brazil", "Germany", "Italy", "Argentina", "France", "Spain", "Netherlands", "England", "Portugal", "Belgium", "Uruguay", "Croatia", "Denmark", "Sweden", "Mexico", "Colombia", "Chile", "United States", "Japan", "South Korea"],
     // Famous Managers
@@ -184,7 +184,7 @@ export const potentialAnswers: PotentialAnswers = {
     ["Usain Bolt", "Carl Lewis", "Jesse Owens", "Michael Johnson", "Florence Griffith-Joyner", "Jackie Joyner-Kersee", "Allyson Felix", "Edwin Moses", "Bob Beamon", "Dick Fosbury", "Sergey Bubka", "Yelena Isinbayeva", "Valerie Adams", "Jan Zelezny", "Gail Devers", "Marion Jones", "Mo Farah", "Haile Gebrselassie", "Kenenisa Bekele", "Eliud Kipchoge"],
     // Swimming Champions
     ["Michael Phelps", "Mark Spitz", "Ian Thorpe", "Ryan Lochte", "Katie Ledecky", "Jenny Thompson", "Dara Torres", "Matt Biondi", "Alexander Popov", "Caeleb Dressel", "Janet Evans", "Dawn Fraser", "Shane Gould", "Krisztina Egerszegi", "Natalie Coughlin", "Amy Van Dyken", "Gary Hall Jr", "Nathan Adrian", "Summer Sanders", "Missy Franklin"],
-    // Volleyball Stars
-    ["Karch Kiraly", "Saori Kimura", "Giba", "Misty May-Treanor", "Kerri Walsh Jennings", "Sergey Tetyukhin", "Sheilla Castro", "Yekaterina Gamova", "Sergio Santos", "Logan Tom", "Natalie Cook", "Emanuel Rego", "Ricardo Santos", "April Ross", "Jordan Larson", "Foluke Akinradewo", "Bruno Rezende", "Zhu Ting", "Earvin N'Gapeth", "Wilfredo Leon"]
+    // Multi-Sport Athletes
+    ["Football", "Baseball", "Basketball", "Track and Field", "Hockey", "Soccer", "Rugby", "Cricket", "Boxing", "Wrestling", "Tennis", "Golf", "Volleyball", "Swimming", "Cycling", "Athletics", "Gymnastics", "Skiing", "Rowing", "Martial Arts"]
   ]
 };

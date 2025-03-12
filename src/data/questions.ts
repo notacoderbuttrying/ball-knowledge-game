@@ -23,8 +23,8 @@ export const quizData: QuizData = {
       solutions: ["Jerry Rice", "Randy Moss", "Terrell Owens"]
     },
     {
-      text: "Name all 4 players who have rushed for 2,000+ yards in a single season.",
-      solutions: ["Eric Dickerson", "Adrian Peterson", "Jamal Lewis", "Derrick Henry"]
+      text: "Name all 8 players who have rushed for 2,000+ yards in a single season.",
+      solutions: ["Eric Dickerson", "Adrian Peterson", "Jamal Lewis", "Derrick Henry", "O.J. Simpson", "Chris Johnson", "Barry Sanders", "Terrell Davis"]
     },
     {
       text: "Name all 3 teams with the longest active playoff appearance streaks.",
@@ -108,7 +108,7 @@ export const quizData: QuizData = {
     },
     {
       text: "Name all 3 teams with the most NBA Championships.",
-      solutions: ["Boston Celtics", "Los Angeles Lakers", "Golden State Warriors"]
+      solutions: ["Boston Celtics", "Los Angeles Lakers", "Chicago Bulls"]
     },
     {
       text: "Name all 3 players with the highest scoring games in NBA history.",
@@ -153,7 +153,7 @@ export const quizData: QuizData = {
       solutions: ["Kansas", "North Carolina", "Duke"]
     },
     {
-      text: "Name all 3 schools Rick Pitino has been head coach at.",
+      text: "Name all 4 schools Rick Pitino has been head coach at.",
       solutions: ["Providence", "Kentucky", "Louisville", "St. John's"]
     },
     {
@@ -187,8 +187,8 @@ export const quizData: QuizData = {
       solutions: ["Edmonton Oilers", "Los Angeles Kings", "St. Louis Blues", "New York Rangers"]
     },
     {
-      text: "Name all 5 teams Jaromir Jagr played for in the NHL.",
-      solutions: ["Pittsburgh Penguins", "Washington Capitals", "New York Rangers", "Philadelphia Flyers", "Boston Bruins"]
+      text: "Name all 9 teams Jaromir Jagr played for in the NHL.",
+      solutions: ["Pittsburgh Penguins", "Washington Capitals", "New York Rangers", "Philadelphia Flyers", "Boston Bruins", "Dallas Stars", "New Jersey Devils", "Florida Panthers", "Calgary Flames"]
     }
   ],
   "Soccer": [

@@ -21,7 +21,9 @@ export const potentialAnswers: PotentialAnswers = {
     // Career interceptions
     ["Paul Krause", "Emlen Tunnell", "Rod Woodson", "Dick Lane", "Ken Riley", "Charles Woodson", "Ed Reed", "Ronnie Lott", "Deion Sanders", "Troy Polamalu", "Brian Dawkins", "Darren Sharper", "Ty Law", "Champ Bailey"],
     // Back-to-back Super Bowl winners
-    ["Green Bay Packers", "Pittsburgh Steelers", "San Francisco 49ers", "Denver Broncos", "New England Patriots", "Dallas Cowboys", "Miami Dolphins", "Kansas City Chiefs", "Los Angeles Rams", "Philadelphia Eagles", "Tampa Bay Buccaneers"]
+    ["Green Bay Packers", "Pittsburgh Steelers", "San Francisco 49ers", "Denver Broncos", "New England Patriots", "Dallas Cowboys", "Miami Dolphins", "Kansas City Chiefs", "Los Angeles Rams", "Philadelphia Eagles", "Tampa Bay Buccaneers"],
+    // Multi-team Players
+    ["Atlanta Falcons", "Green Bay Packers", "New York Jets", "Minnesota Vikings", "San Francisco 49ers", "Dallas Cowboys", "Baltimore Ravens", "Washington Commanders", "Buffalo Bills", "Tennessee Titans", "Philadelphia Eagles", "Pittsburgh Steelers", "Cleveland Browns", "Arizona Cardinals"]
   ],
   "College Football": [
     // National Championships
@@ -51,7 +53,7 @@ export const potentialAnswers: PotentialAnswers = {
     // MVP Winners
     ["Michael Jordan", "Kareem Abdul-Jabbar", "Bill Russell", "Wilt Chamberlain", "LeBron James", "Magic Johnson", "Larry Bird", "Moses Malone", "Karl Malone", "Tim Duncan", "Steve Nash", "Giannis Antetokounmpo", "Stephen Curry", "Kevin Durant", "James Harden", "Russell Westbrook", "Derrick Rose", "Nikola Jokic", "Joel Embiid", "Allen Iverson"],
     // Championship Teams
-    ["Boston Celtics", "Los Angeles Lakers", "Golden State Warriors", "Chicago Bulls", "San Antonio Spurs", "Miami Heat", "Detroit Pistons", "Philadelphia 76ers", "Milwaukee Bucks", "Houston Rockets", "Dallas Mavericks", "Toronto Raptors", "Cleveland Cavaliers", "Denver Nuggets", "Washington Bullets", "Seattle SuperSonics", "Portland Trail Blazers", "New York Knicks", "Sacramento Kings", "Baltimore Bullets"],
+    ["Boston Celtics", "Los Angeles Lakers", "Golden State Warriors", "Chicago Bulls", "San Antonio Spurs", "Miami Heat", "Detroit Pistons", "Philadelphia 76ers", "Milwaukee Bucks", "Houston Rockets", "Dallas Mavericks", "Toronto Raptors", "Cleveland Cavaliers", "Denver Nuggets", "Washington Bullets"],
     // Three-Point Leaders
     ["Stephen Curry", "Ray Allen", "James Harden", "Reggie Miller", "Kyle Korver", "Damian Lillard", "Klay Thompson", "Vince Carter", "Jason Terry", "Paul Pierce", "Jamal Crawford", "Jason Kidd", "LeBron James", "Kyle Lowry", "JJ Redick", "Peja Stojakovic", "Dale Ellis", "Dirk Nowitzki", "Mookie Blaylock", "Joe Johnson"],
     // Assist Leaders
@@ -65,7 +67,9 @@ export const potentialAnswers: PotentialAnswers = {
     // Coaches
     ["Phil Jackson", "Red Auerbach", "Pat Riley", "Gregg Popovich", "Don Nelson", "Lenny Wilkens", "Jerry Sloan", "Larry Brown", "Chuck Daly", "Red Holzman", "Jack Ramsay", "Dick Motta", "Bill Fitch", "KC Jones", "Rudy Tomjanovich", "Doc Rivers", "Erik Spoelstra", "Steve Kerr", "Rick Carlisle", "Mike Budenholzer"],
     // Dynasties
-    ["1960s Celtics", "1980s Lakers", "1990s Bulls", "2000s Lakers", "2010s Warriors", "1980s Celtics", "2000s Spurs", "2010s Heat", "1970s Knicks", "1990s Rockets", "1980s Pistons", "2020s Nuggets", "1970s Bucks", "1970s Warriors", "1960s Lakers", "2010s Cavaliers", "2000s Pistons", "1990s Jazz", "1980s 76ers", "1970s Bullets"]
+    ["1960s Celtics", "1980s Lakers", "1990s Bulls", "2000s Lakers", "2010s Warriors", "1980s Celtics", "2000s Spurs", "2010s Heat", "1970s Knicks", "1990s Rockets", "1980s Pistons", "2020s Nuggets", "1970s Bucks", "1970s Warriors", "1960s Lakers", "2010s Cavaliers", "2000s Pistons", "1990s Jazz", "1980s 76ers", "1970s Bullets"],
+    // Multi-team Players
+    ["Cleveland Cavaliers", "Miami Heat", "Los Angeles Lakers", "Orlando Magic", "Phoenix Suns", "Boston Celtics", "Brooklyn Nets", "Chicago Bulls", "Detroit Pistons", "Golden State Warriors", "Houston Rockets", "Indiana Pacers", "Memphis Grizzlies", "Milwaukee Bucks", "Minnesota Timberwolves", "New Orleans Pelicans", "New York Knicks", "Oklahoma City Thunder", "Philadelphia 76ers", "Portland Trail Blazers", "Sacramento Kings", "San Antonio Spurs", "Toronto Raptors", "Utah Jazz", "Washington Wizards"]
   ],
   "College Basketball": [
     // Championship Programs
@@ -109,7 +113,9 @@ export const potentialAnswers: PotentialAnswers = {
     // Coaches
     ["Scotty Bowman", "Al Arbour", "Joel Quenneville", "Ken Hitchcock", "Barry Trotz", "Dick Irvin", "Pat Quinn", "Mike Babcock", "Glen Sather", "Toe Blake", "Fred Shero", "Bob Johnson", "Peter Laviolette", "Darryl Sutter", "Mike Keenan", "Jacques Lemaire", "Pat Burns", "Roger Neilson", "Jacques Martin", "Bruce Boudreau"],
     // Rivalries
-    ["Canadiens-Bruins", "Maple Leafs-Canadiens", "Rangers-Islanders", "Flyers-Penguins", "Red Wings-Avalanche", "Oilers-Flames", "Blackhawks-Red Wings", "Devils-Rangers", "Bruins-Rangers", "Canadiens-Nordiques", "Kings-Ducks", "Capitals-Penguins", "Blues-Blackhawks", "Senators-Maple Leafs", "Canucks-Flames", "Jets-Oilers", "Panthers-Lightning", "Stars-Blues", "Sabres-Maple Leafs", "Wild-Avalanche"]
+    ["Canadiens-Bruins", "Maple Leafs-Canadiens", "Rangers-Islanders", "Flyers-Penguins", "Red Wings-Avalanche", "Oilers-Flames", "Blackhawks-Red Wings", "Devils-Rangers", "Bruins-Rangers", "Canadiens-Nordiques", "Kings-Ducks", "Capitals-Penguins", "Blues-Blackhawks", "Senators-Maple Leafs", "Canucks-Flames", "Jets-Oilers", "Panthers-Lightning", "Stars-Blues", "Sabres-Maple Leafs", "Wild-Avalanche"],
+    // Multi-team Players
+    ["Edmonton Oilers", "Los Angeles Kings", "St. Louis Blues", "New York Rangers", "Pittsburgh Penguins", "Washington Capitals", "Philadelphia Flyers", "Boston Bruins", "Dallas Stars", "New Jersey Devils", "Florida Panthers", "Calgary Flames", "Montreal Canadiens", "Toronto Maple Leafs", "Detroit Red Wings", "Chicago Blackhawks", "Vancouver Canucks", "Arizona Coyotes", "Buffalo Sabres", "Carolina Hurricanes", "Columbus Blue Jackets", "Minnesota Wild", "Nashville Predators", "Ottawa Senators", "San Jose Sharks", "Tampa Bay Lightning", "Vegas Golden Knights", "Winnipeg Jets"]
   ],
   "Soccer": [
     // World Cup Winners
@@ -131,7 +137,9 @@ export const potentialAnswers: PotentialAnswers = {
     // Historic Clubs
     ["Real Madrid", "Barcelona", "Manchester United", "Liverpool", "Bayern Munich", "AC Milan", "Juventus", "Ajax", "Inter Milan", "Benfica", "Celtic", "Rangers", "Porto", "PSV Eindhoven", "Feyenoord", "Anderlecht", "Red Star Belgrade", "Steaua Bucharest", "Galatasaray", "Fenerbahce", "Al Nassr"],
     // Famous Rivalries
-    ["Real Madrid-Barcelona", "Manchester United-Liverpool", "Celtic-Rangers", "Boca Juniors-River Plate", "AC Milan-Inter Milan", "Arsenal-Tottenham", "Bayern Munich-Borussia Dortmund", "Fenerbahce-Galatasaray", "Ajax-Feyenoord", "Roma-Lazio", "Benfica-Porto", "PSG-Marseille", "Atletico Madrid-Real Madrid", "Manchester City-Manchester United", "Liverpool-Everton", "Juventus-Inter Milan", "Barcelona-Espanyol", "Schalke-Borussia Dortmund", "Olympiacos-Panathinaikos", "Nacional-Penarol"]
+    ["Real Madrid-Barcelona", "Manchester United-Liverpool", "Celtic-Rangers", "Boca Juniors-River Plate", "AC Milan-Inter Milan", "Arsenal-Tottenham", "Bayern Munich-Borussia Dortmund", "Fenerbahce-Galatasaray", "Ajax-Feyenoord", "Roma-Lazio", "Benfica-Porto", "PSG-Marseille", "Atletico Madrid-Real Madrid", "Manchester City-Manchester United", "Liverpool-Everton", "Juventus-Inter Milan", "Barcelona-Espanyol", "Schalke-Borussia Dortmund", "Olympiacos-Panathinaikos", "Nacional-Penarol"],
+    // Club Teams
+    ["Sporting CP", "Manchester United", "Real Madrid", "Juventus", "Al Nassr", "Ajax", "Inter Milan", "Barcelona", "AC Milan", "Paris Saint-Germain", "LA Galaxy", "Manchester City", "Chelsea", "Arsenal", "Liverpool", "Tottenham", "Everton", "Newcastle United", "West Ham", "Aston Villa", "Bayern Munich", "Borussia Dortmund", "Atletico Madrid", "Napoli", "Roma", "Lazio", "Porto", "Benfica", "Celtic", "Rangers"]
   ],
   "Golf": [
     // Major Champions

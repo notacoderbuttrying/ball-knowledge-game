@@ -156,6 +156,8 @@ export const potentialAnswers: PotentialAnswers = {
     ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer", "Gary Player", "Sam Snead", "Ben Hogan", "Walter Hagen", "Gene Sarazen", "Bobby Jones", "Tom Watson", "Seve Ballesteros", "Byron Nelson", "Lee Trevino", "Nick Faldo", "Greg Norman", "Phil Mickelson", "Ernie Els", "Vijay Singh", "Fred Couples", "Raymond Floyd"]
   ],
   "Random": [
+    // Professional Leagues
+    ["MLB", "NHL", "NFL", "NBA", "MLS", "Premier League", "La Liga", "Serie A", "Bundesliga", "Ligue 1", "KHL", "NPB", "CFL", "AFL", "IPL", "Super Rugby", "Top 14", "Premiership Rugby", "BBL", "J-League"],
     // Olympic Sports
     ["Swimming", "Track and Field", "Gymnastics", "Basketball", "Volleyball", "Wrestling", "Boxing", "Weightlifting", "Diving", "Rowing", "Cycling", "Sailing", "Archery", "Judo", "Taekwondo", "Fencing", "Table Tennis", "Badminton", "Field Hockey", "Water Polo"],
     // Tennis Champions

@@ -15,8 +15,8 @@ export const quizData: QuizData = {
       solutions: ["Cleveland Browns", "Detroit Lions", "Jacksonville Jaguars", "Houston Texans"]
     },
     {
-      text: "Name all 5 players who have won NFL MVP unanimously.",
-      solutions: ["Tom Brady", "Lamar Jackson", "Aaron Rodgers", "Patrick Mahomes", "Josh Allen"]
+      text: "Name both players who have won NFL MVP unanimously.",
+      solutions: ["Tom Brady", "Lamar Jackson"]
     },
     {
       text: "Name all 3 players with the most career receiving touchdowns.",
@@ -28,7 +28,7 @@ export const quizData: QuizData = {
     },
     {
       text: "Name all 3 teams with the longest active playoff appearance streaks.",
-      solutions: ["Kansas City Chiefs", "Buffalo Bills", "Dallas Cowboys"]
+      solutions: ["Kansas City Chiefs", "Buffalo Bills", "Philadelphia Eagles"]
     },
     {
       text: "Name all 5 players who have won Super Bowl MVP multiple times.",
@@ -49,6 +49,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 4 teams Deion Sanders played for in the NFL.",
       solutions: ["Atlanta Falcons", "San Francisco 49ers", "Dallas Cowboys", "Baltimore Ravens"]
+    },
+    {
+      text: "Name all 3 players with the most career sacks.",
+      solutions: ["Bruce Smith", "Reggie White", "DeMarcus Ware"]
+    },
+    {
+      text: "Name all 5 players with the most career tackles in NFL history.",
+      solutions: ["Ray Lewis", "Junior Seau", "London Fletcher", "Zach Thomas", "Patrick Willis"]
     }
   ],
   "College Football": [
@@ -57,7 +65,7 @@ export const quizData: QuizData = {
       solutions: ["Alabama", "Notre Dame", "Oklahoma", "USC", "Ohio State"]
     },
     {
-      text: "Name all 2 players who have won multiple Heisman Trophy awards.",
+      text: "Name the only player who has won multiple Heisman Trophy awards.",
       solutions: ["Archie Griffin"]
     },
     {
@@ -129,6 +137,10 @@ export const quizData: QuizData = {
     {
       text: "Name all 6 teams Shaquille O'Neal played for in his NBA career.",
       solutions: ["Orlando Magic", "Los Angeles Lakers", "Miami Heat", "Phoenix Suns", "Cleveland Cavaliers", "Boston Celtics"]
+    },
+    {
+      text: "Name all 3 players with the highest single-game scoring performances in NBA history.",
+      solutions: ["Wilt Chamberlain", "Kobe Bryant", "Donovan Mitchell"]
     }
   ],
   "College Basketball": [
@@ -153,7 +165,7 @@ export const quizData: QuizData = {
       solutions: ["Kansas", "North Carolina", "Duke"]
     },
     {
-      text: "Name all 4 schools Rick Pitino has been head coach at.",
+      text: "Name all 4 schools Rick Pitino has been head coach at in Division I.",
       solutions: ["Providence", "Kentucky", "Louisville", "St. John's"]
     },
     {
@@ -179,8 +191,8 @@ export const quizData: QuizData = {
       solutions: ["Wayne Gretzky", "Gordie Howe", "Eddie Shore"]
     },
     {
-      text: "Name all 3 players with the most consecutive scoring titles.",
-      solutions: ["Wayne Gretzky", "Gordie Howe", "Phil Esposito"]
+      text: "Name the player with the most consecutive scoring titles.",
+      solutions: ["Wayne Gretzky"]
     },
     {
       text: "Name all 4 teams Wayne Gretzky played for in his NHL career.",
@@ -194,7 +206,7 @@ export const quizData: QuizData = {
   "Soccer": [
     {
       text: "Name all 3 players with the most Ballon d'Or awards.",
-      solutions: ["Lionel Messi", "Cristiano Ronaldo", "Johan Cruyff"]
+      solutions: ["Lionel Messi", "Cristiano Ronaldo", "Michel Platini"]
     },
     {
       text: "Name all 3 countries with the most FIFA World Cup titles.",
@@ -210,7 +222,7 @@ export const quizData: QuizData = {
     },
     {
       text: "Name all 3 players with the most international goals.",
-      solutions: ["Cristiano Ronaldo", "Lionel Messi", "Ali Daei"]
+      solutions: ["Cristiano Ronaldo", "Ali Daei", "Lionel Messi"]
     },
     {
       text: "Name all 5 clubs Cristiano Ronaldo has played for in his career.",
@@ -249,6 +261,10 @@ export const quizData: QuizData = {
     {
       text: "Name all 3 major tours Brooks Koepka has won tournaments on.",
       solutions: ["PGA Tour", "European Tour", "LIV Golf"]
+    },
+    {
+      text: "Name all 5 golfers who have achieved the Career Grand Slam.",
+      solutions: ["Jack Nicklaus", "Tiger Woods", "Gary Player", "Ben Hogan", "Gene Sarazen"]
     }
   ],
   "Random": [

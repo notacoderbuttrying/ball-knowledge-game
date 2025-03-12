@@ -41,6 +41,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 4 teams that have won back-to-back Super Bowls.",
       solutions: ["Green Bay Packers", "Pittsburgh Steelers", "San Francisco 49ers", "Denver Broncos"]
+    },
+    {
+      text: "Name all 4 teams Brett Favre played for in his NFL career.",
+      solutions: ["Atlanta Falcons", "Green Bay Packers", "New York Jets", "Minnesota Vikings"]
+    },
+    {
+      text: "Name all 4 teams Deion Sanders played for in the NFL.",
+      solutions: ["Atlanta Falcons", "San Francisco 49ers", "Dallas Cowboys", "Baltimore Ravens"]
     }
   ],
   "College Football": [
@@ -83,6 +91,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 4 schools with the largest football stadium capacities.",
       solutions: ["Michigan", "Penn State", "Ohio State", "Texas A&M"]
+    },
+    {
+      text: "Name all 3 schools Nick Saban was head coach at before Alabama.",
+      solutions: ["Toledo", "Michigan State", "LSU"]
+    },
+    {
+      text: "Name all 3 schools Urban Meyer was head coach at before Ohio State.",
+      solutions: ["Bowling Green", "Utah", "Florida"]
     }
   ],
   "NBA": [
@@ -105,6 +121,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 3 players with the most MVP awards.",
       solutions: ["Kareem Abdul-Jabbar", "Bill Russell", "Michael Jordan"]
+    },
+    {
+      text: "Name all 3 teams LeBron James has played for in his NBA career.",
+      solutions: ["Cleveland Cavaliers", "Miami Heat", "Los Angeles Lakers"]
+    },
+    {
+      text: "Name all 6 teams Shaquille O'Neal played for in his NBA career.",
+      solutions: ["Orlando Magic", "Los Angeles Lakers", "Miami Heat", "Phoenix Suns", "Cleveland Cavaliers", "Boston Celtics"]
     }
   ],
   "College Basketball": [
@@ -127,6 +151,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 3 schools with the longest NCAA Tournament appearance streaks.",
       solutions: ["Kansas", "North Carolina", "Duke"]
+    },
+    {
+      text: "Name all 3 schools Rick Pitino has been head coach at.",
+      solutions: ["Providence", "Kentucky", "Louisville", "St. John's"]
+    },
+    {
+      text: "Name all 3 schools John Calipari has been head coach at.",
+      solutions: ["UMass", "Memphis", "Kentucky"]
     }
   ],
   "NHL": [
@@ -149,6 +181,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 3 players with the most consecutive scoring titles.",
       solutions: ["Wayne Gretzky", "Gordie Howe", "Phil Esposito"]
+    },
+    {
+      text: "Name all 4 teams Wayne Gretzky played for in his NHL career.",
+      solutions: ["Edmonton Oilers", "Los Angeles Kings", "St. Louis Blues", "New York Rangers"]
+    },
+    {
+      text: "Name all 5 teams Jaromir Jagr played for in the NHL.",
+      solutions: ["Pittsburgh Penguins", "Washington Capitals", "New York Rangers", "Philadelphia Flyers", "Boston Bruins"]
     }
   ],
   "Soccer": [
@@ -171,6 +211,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 3 players with the most international goals.",
       solutions: ["Cristiano Ronaldo", "Lionel Messi", "Ali Daei"]
+    },
+    {
+      text: "Name all 5 clubs Cristiano Ronaldo has played for in his career.",
+      solutions: ["Sporting CP", "Manchester United", "Real Madrid", "Juventus", "Al Nassr"]
+    },
+    {
+      text: "Name all 8 clubs Zlatan Ibrahimovic has played for.",
+      solutions: ["Ajax", "Juventus", "Inter Milan", "Barcelona", "AC Milan", "Paris Saint-Germain", "Manchester United", "LA Galaxy"]
     }
   ],
   "Golf": [
@@ -193,6 +241,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 3 golfers with the most consecutive major championship wins.",
       solutions: ["Tiger Woods", "Bobby Jones", "Ben Hogan"]
+    },
+    {
+      text: "Name all 3 major professional golf tours Phil Mickelson has won on.",
+      solutions: ["PGA Tour", "European Tour", "LIV Golf"]
+    },
+    {
+      text: "Name all 3 major tours Brooks Koepka has won tournaments on.",
+      solutions: ["PGA Tour", "European Tour", "LIV Golf"]
     }
   ],
   "Random": [
@@ -215,6 +271,14 @@ export const quizData: QuizData = {
     {
       text: "Name all 3 most attended sporting events annually.",
       solutions: ["Indianapolis 500", "Le Mans 24 Hours", "Daytona 500"]
+    },
+    {
+      text: "Name all 3 sports Bo Jackson played professionally.",
+      solutions: ["Football", "Baseball", "Track and Field"]
+    },
+    {
+      text: "Name all 3 sports Deion Sanders played professionally.",
+      solutions: ["Football", "Baseball", "Track and Field"]
     }
   ]
 };

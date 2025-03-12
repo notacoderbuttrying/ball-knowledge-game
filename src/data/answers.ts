@@ -129,7 +129,7 @@ export const potentialAnswers: PotentialAnswers = {
     // Famous Managers
     ["Alex Ferguson", "Arsene Wenger", "Jose Mourinho", "Pep Guardiola", "Carlo Ancelotti", "Johan Cruyff", "Rinus Michels", "Bill Shankly", "Bob Paisley", "Brian Clough", "Helenio Herrera", "Vicente del Bosque", "Marcello Lippi", "Fabio Capello", "Ottmar Hitzfeld", "Jurgen Klopp", "Diego Simeone", "Antonio Conte", "Zinedine Zidane", "Louis van Gaal"],
     // Historic Clubs
-    ["Real Madrid", "Barcelona", "Manchester United", "Liverpool", "Bayern Munich", "AC Milan", "Juventus", "Ajax", "Inter Milan", "Benfica", "Celtic", "Rangers", "Porto", "PSV Eindhoven", "Feyenoord", "Anderlecht", "Red Star Belgrade", "Steaua Bucharest", "Galatasaray", "Fenerbahce"],
+    ["Real Madrid", "Barcelona", "Manchester United", "Liverpool", "Bayern Munich", "AC Milan", "Juventus", "Ajax", "Inter Milan", "Benfica", "Celtic", "Rangers", "Porto", "PSV Eindhoven", "Feyenoord", "Anderlecht", "Red Star Belgrade", "Steaua Bucharest", "Galatasaray", "Fenerbahce", "Al Nassr"],
     // Famous Rivalries
     ["Real Madrid-Barcelona", "Manchester United-Liverpool", "Celtic-Rangers", "Boca Juniors-River Plate", "AC Milan-Inter Milan", "Arsenal-Tottenham", "Bayern Munich-Borussia Dortmund", "Fenerbahce-Galatasaray", "Ajax-Feyenoord", "Roma-Lazio", "Benfica-Porto", "PSG-Marseille", "Atletico Madrid-Real Madrid", "Manchester City-Manchester United", "Liverpool-Everton", "Juventus-Inter Milan", "Barcelona-Espanyol", "Schalke-Borussia Dortmund", "Olympiacos-Panathinaikos", "Nacional-Penarol"]
   ],

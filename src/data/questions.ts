@@ -7,19 +7,19 @@ export const quizData: QuizData = {
       solutions: ["Emmitt Smith", "Walter Payton", "Barry Sanders", "Frank Gore", "Adrian Peterson"] 
     },
     { 
-      text: "Name the 4 quarterbacks with the most career passing touchdowns.", 
+      text: "Name all 4 quarterbacks with the most career passing touchdowns.", 
       solutions: ["Tom Brady", "Drew Brees", "Peyton Manning", "Brett Favre"] 
     },
     {
-      text: "Name the 3 teams that have never appeared in a Super Bowl.",
+      text: "Name all 4 teams that have never appeared in a Super Bowl.",
       solutions: ["Cleveland Browns", "Detroit Lions", "Jacksonville Jaguars", "Houston Texans"]
     },
     {
       text: "Name all 5 players who have won NFL MVP unanimously.",
-      solutions: ["Tom Brady", "Lamar Jackson", "Aaron Rodgers", "Patrick Mahomes", "Cooper Kupp"]
+      solutions: ["Tom Brady", "Lamar Jackson", "Aaron Rodgers", "Patrick Mahomes", "Josh Allen"]
     },
     {
-      text: "Name the 3 players with the most career receiving touchdowns.",
+      text: "Name all 3 players with the most career receiving touchdowns.",
       solutions: ["Jerry Rice", "Randy Moss", "Terrell Owens"]
     },
     {
@@ -27,15 +27,15 @@ export const quizData: QuizData = {
       solutions: ["Eric Dickerson", "Adrian Peterson", "Jamal Lewis", "Derrick Henry"]
     },
     {
-      text: "Name the 3 teams with the longest active playoff appearance streaks.",
-      solutions: ["Kansas City Chiefs", "Buffalo Bills", "San Francisco 49ers"]
+      text: "Name all 3 teams with the longest active playoff appearance streaks.",
+      solutions: ["Kansas City Chiefs", "Buffalo Bills", "Dallas Cowboys"]
     },
     {
       text: "Name all 5 players who have won Super Bowl MVP multiple times.",
-      solutions: ["Tom Brady", "Bart Starr", "Terry Bradshaw", "Joe Montana", "Eli Manning"]
+      solutions: ["Tom Brady", "Patrick Mahomes", "Joe Montana", "Bart Starr", "Terry Bradshaw"]
     },
     {
-      text: "Name the 3 players with the most career interceptions.",
+      text: "Name all 3 players with the most career interceptions.",
       solutions: ["Paul Krause", "Emlen Tunnell", "Rod Woodson"]
     },
     {
@@ -45,27 +45,27 @@ export const quizData: QuizData = {
   ],
   "College Football": [
     {
-      text: "Name the 5 schools with the most NCAA Division I FBS National Championships since 1936.",
+      text: "Name all 5 schools with the most NCAA Division I FBS National Championships since 1936.",
       solutions: ["Alabama", "Notre Dame", "Oklahoma", "USC", "Ohio State"]
     },
     {
-      text: "Name the only player to win multiple Heisman Trophy awards.",
+      text: "Name all 2 players who have won multiple Heisman Trophy awards.",
       solutions: ["Archie Griffin"]
     },
     {
-      text: "Name the 4 schools with the most Heisman Trophy winners.",
+      text: "Name all 4 schools with the most Heisman Trophy winners.",
       solutions: ["Notre Dame", "Ohio State", "USC", "Oklahoma"]
     },
     {
-      text: "Name the 3 oldest college football rivalries still played annually.",
+      text: "Name all 3 oldest college football rivalries still played annually.",
       solutions: ["Yale-Princeton", "Lafayette-Lehigh", "Harvard-Yale"]
     },
     {
-      text: "Name the 5 schools with the most all-time wins in college football.",
+      text: "Name all 5 schools with the most all-time wins in college football.",
       solutions: ["Michigan", "Ohio State", "Alabama", "Texas", "Notre Dame"]
     },
     {
-      text: "Name the 3 coaches with the most all-time wins in college football.",
+      text: "Name all 3 coaches with the most all-time wins in college football.",
       solutions: ["John Gagliardi", "Joe Paterno", "Eddie Robinson"]
     },
     {
@@ -73,7 +73,7 @@ export const quizData: QuizData = {
       solutions: ["Alabama", "Clemson", "Ohio State", "Georgia"]
     },
     {
-      text: "Name the 3 schools that have produced the most NFL first-round draft picks.",
+      text: "Name all 3 schools that have produced the most NFL first-round draft picks.",
       solutions: ["Alabama", "USC", "Ohio State"]
     },
     {
@@ -81,7 +81,7 @@ export const quizData: QuizData = {
       solutions: ["Michigan", "Ohio State", "Florida"]
     },
     {
-      text: "Name the 4 schools with the largest football stadium capacities.",
+      text: "Name all 4 schools with the largest football stadium capacities.",
       solutions: ["Michigan", "Penn State", "Ohio State", "Texas A&M"]
     }
   ],
@@ -95,7 +95,7 @@ export const quizData: QuizData = {
       solutions: ["Boston Celtics", "Los Angeles Lakers", "Golden State Warriors"]
     },
     {
-      text: "Name all 3 players with the highest scoring games.",
+      text: "Name all 3 players with the highest scoring games in NBA history.",
       solutions: ["Wilt Chamberlain", "Kobe Bryant", "David Thompson"]
     },
     {
@@ -109,23 +109,23 @@ export const quizData: QuizData = {
   ],
   "College Basketball": [
     {
-      text: "Name the 3 schools with the most NCAA Men's Basketball Championships.",
+      text: "Name all 3 schools with the most NCAA Men's Basketball Championships.",
       solutions: ["UCLA", "Kentucky", "North Carolina"]
     },
     {
-      text: "Name the 3 coaches with the most NCAA Tournament wins.",
+      text: "Name all 3 coaches with the most NCAA Tournament wins.",
       solutions: ["Mike Krzyzewski", "Roy Williams", "Dean Smith"]
     },
     {
-      text: "Name the 3 players who won 3 or more National Player of the Year awards.",
+      text: "Name all 3 players who won 3 or more National Player of the Year awards.",
       solutions: ["Bill Walton", "Ralph Sampson", "Kareem Abdul-Jabbar"]
     },
     {
-      text: "Name the 3 schools with the most Final Four appearances.",
+      text: "Name all 3 schools with the most Final Four appearances.",
       solutions: ["North Carolina", "UCLA", "Kentucky"]
     },
     {
-      text: "Name the 3 schools with the longest NCAA Tournament appearance streaks.",
+      text: "Name all 3 schools with the longest NCAA Tournament appearance streaks.",
       solutions: ["Kansas", "North Carolina", "Duke"]
     }
   ],
@@ -154,7 +154,7 @@ export const quizData: QuizData = {
   "Soccer": [
     {
       text: "Name all 3 players with the most Ballon d'Or awards.",
-      solutions: ["Lionel Messi", "Cristiano Ronaldo", "Michel Platini"]
+      solutions: ["Lionel Messi", "Cristiano Ronaldo", "Johan Cruyff"]
     },
     {
       text: "Name all 3 countries with the most FIFA World Cup titles.",
@@ -162,7 +162,7 @@ export const quizData: QuizData = {
     },
     {
       text: "Name all 3 players with the most Premier League goals.",
-      solutions: ["Alan Shearer", "Wayne Rooney", "Harry Kane"]
+      solutions: ["Alan Shearer", "Harry Kane", "Wayne Rooney"]
     },
     {
       text: "Name all 3 clubs with the most UEFA Champions League titles.",
@@ -170,7 +170,7 @@ export const quizData: QuizData = {
     },
     {
       text: "Name all 3 players with the most international goals.",
-      solutions: ["Cristiano Ronaldo", "Ali Daei", "Lionel Messi"]
+      solutions: ["Cristiano Ronaldo", "Lionel Messi", "Ali Daei"]
     }
   ],
   "Golf": [
@@ -197,23 +197,23 @@ export const quizData: QuizData = {
   ],
   "Random": [
     {
-      text: "Name the top 3 most-watched sporting events globally.",
+      text: "Name all 3 most-watched sporting events globally.",
       solutions: ["FIFA World Cup", "Olympics", "UEFA Champions League Final"]
     },
     {
-      text: "Name the 3 highest-paid athletes of all time (adjusted for inflation).",
-      solutions: ["Michael Jordan", "Tiger Woods", "Arnold Palmer"]
+      text: "Name all 3 highest-paid athletes of all time (adjusted for inflation).",
+      solutions: ["Lionel Messi", "Cristiano Ronaldo", "Michael Jordan"]
     },
     {
-      text: "Name the 3 oldest major professional sports leagues still in existence.",
+      text: "Name all 3 oldest major professional sports leagues still in existence.",
       solutions: ["MLB", "NHL", "NFL"]
     },
     {
-      text: "Name the 3 most valuable sports franchises in the world.",
-      solutions: ["Dallas Cowboys", "New York Yankees", "Real Madrid"]
+      text: "Name all 3 most valuable sports franchises in the world.",
+      solutions: ["Dallas Cowboys", "Real Madrid", "New England Patriots"]
     },
     {
-      text: "Name the 3 most attended sporting events annually.",
+      text: "Name all 3 most attended sporting events annually.",
       solutions: ["Indianapolis 500", "Le Mans 24 Hours", "Daytona 500"]
     }
   ]

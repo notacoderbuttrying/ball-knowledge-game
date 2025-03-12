@@ -144,6 +144,8 @@ export const potentialAnswers: PotentialAnswers = {
   "Golf": [
     // Major Champions
     ["Jack Nicklaus", "Tiger Woods", "Walter Hagen", "Ben Hogan", "Gary Player", "Sam Snead", "Arnold Palmer", "Tom Watson", "Gene Sarazen", "Bobby Jones", "Phil Mickelson", "Nick Faldo", "Seve Ballesteros", "Byron Nelson", "Lee Trevino", "Rory McIlroy", "Brooks Koepka", "Jordan Spieth", "Jon Rahm", "Scottie Scheffler"],
+    // Professional Tours
+    ["PGA Tour", "European Tour", "LIV Golf", "Asian Tour", "Korn Ferry Tour", "PGA Tour Champions", "Ladies European Tour", "LPGA Tour", "Japan Golf Tour", "PGA Tour of Australasia"],
     // Masters Champions
     ["Jack Nicklaus", "Tiger Woods", "Arnold Palmer", "Phil Mickelson", "Nick Faldo", "Seve Ballesteros", "Gary Player", "Tom Watson", "Ben Hogan", "Sam Snead", "Byron Nelson", "Jimmy Demaret", "Bubba Watson", "Ben Crenshaw", "Jose Maria Olazabal", "Bernhard Langer", "Fred Couples", "Jordan Spieth", "Jon Rahm", "Scottie Scheffler"],
     // US Open Champions
